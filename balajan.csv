@@ -1,0 +1,129 @@
+Sl no,Name,Mother name,Gender(M/F),Category(OBC/GEN/ST/SC),Age(0-5yrs),weight,Cause of Death
+1,Manish Roy,Gita Roy,M,Gen,29 - 1,3,Other Diseases
+2,Gashai Sutradhar,Namita Sutradhar,M,SC,29 - 1,2,Other Diseases
+3,Pranjal Nath,Marami Nath,M,Gen,29 - 1,3,Other Diseases
+4,Ansai Bargoyari,Nijara Bargoyari,F,Gen,29 - 1,3,Other Diseases
+5,Baby,Sonasri Basumatary,F,Gen,29 - 1,3,Cord Infection
+6,Niranjan Roy,Rakhi Roy,M,Gen,29 - 1,3.2,Pneumonia
+7,Baby,Puja Basumatary,F,ST,0 - 28,3,Cord Infection
+8,Baby,Harmoni Basumatary,M,ST,29 - 1,2.9,Other Diseases
+9,Sujuta Basumatary,Manjubala Basumatary,F,ST,1 - 5,3,Fever
+10,Baby,Taslima Bibi,F,Gen,0 - 28,2.9,Other Diseases
+11,Dhiman Roy,Nilima Roy,M,Gen,29 - 1,2.7,Other Diseases
+12,Baby,Sabita Barman,M,Gen,0 - 28,2.9,Fever
+13,Baby,Arehana Biswas Das,F,Gen,29 - 1,3,Other Diseases
+14,Baby,Laxmi Basumatary,F,ST,0 - 28,2.9,Fever
+15,Baby,Monjuly Rabha,M,ST,0 - 28,3,Other Diseases
+16,Anju Basumatary,Jyoti Basumatary,F,ST,29 - 1,2.9,Other Diseases
+17,Nandani Basumatary,Binu Basumatary,F,ST,29 - 1,2.5,Diarrhoeal Disease
+18,Tarina Basumatary,Devi Basumatary,F,ST,29 - 1,2.9,Other Diseases
+19,Dirha Rabha,Rita Rabha,F,ST,29 - 1,2,Other Diseases
+20,Selmi Marak,Sonjani Marak,F,ST,29 - 1,2.8,Other Diseases
+21,Garima Roy,Monomati Roy,F,Gen,29 - 1,3,Other Diseases
+22,Monoj Roy,Sarmila Roy,M,Gen,29 - 1,2.9,Diarrhoeal Disease
+23,Kiron Basumatary,Kabita Basumatary,M,ST,29 - 1,2.6,Other Diseases
+24,Bibi Boro,Sumati Boro,F,ST,29 - 1,2.9,Other Diseases
+25,Baby,Lakhi Basumatary,F,ST,29 - 1,2.5,Other Diseases
+26,Sangita Mardi,Lakhi Mardi,F,Gen,29 - 1,3,Other Diseases
+27,Ranjana Roy,Sawali Roy,F,Gen,29 - 1,3,Other Diseases
+28,Karima Ansary,Amina Khatun,F,Gen,29 - 1,2.9,Other Diseases
+29,Baby,Ranima Basumatary,F,ST,0 - 28,2.5,Other Diseases
+30,Baby,Binita Roy,M,Gen,0 - 28,2.8,Pneumonia
+31,"Sumitra Shil Sarma,",Kanmaina Roy,F,Gen,29 - 1,2.1,Other Diseases
+32,Baby,Ganga Boro,M,ST,29 - 1,2.7,Other Diseases
+33,Baby,Rubushi Brahma,F,ST,29 - 1,2.8,Other Diseases
+34,Monisha Roy,Punam Roy,F,Gen,29 - 1,2.9,Diarrhoeal Disease
+35,Baby,Paritan Bibi,M,Gen,0 - 28,2.8,Other Diseases
+36,Bidyut Muchahary,Rangina Muchahary,M,ST,29 - 1,3,Pneumonia
+37,Sriya Bishmitar,Samaina Bismitar,F,Gen,29 - 1,2.6,Other Diseases
+,Elbart Basumatary,Sanabati Basumatary,M,29 - 1,ST,3.2,Pneumonia
+,Baby,Malaki Sangma,M,29 - 1,ST,3,Pneumonia
+,Baby,Ranjita Basumatary,F,29 - 1,ST,2.9,Pneumonia
+,Raj tudu, Elizabeth Murmu,M,0 - 28,Gen,3,Pneumonia
+,Swapna Kujur,Anjali Kujur,F,29 - 1,Gen,2.9,Pneumonia
+,Dipa Roy, Jayanti Roy,F,29 - 1,Gen,2.7,Pneumonia
+,Baby, Anita Brahma,M,0 - 28,ST,2.9,Pneumonia
+,Baby,Hamida Bib,M,0 - 28,Gen,3,Pneumonia
+,Baby, Karobhi Barman,F,0 - 28,Gen,2.9,Pneumonia
+,Biswanath Hembram,Elvina Murmu,M,0 - 28,Gen,3,Pneumonia
+,Hemanta Narzary, Kunju Narzary,M,0 - 28,ST,2.9,Other Diseases
+,Danti Goyary, Susila Goyary,M,0 - 28,ST,2.5,Other Diseases
+,Baby, Mahendra Rabha,F,0 - 28,ST,2.9,Other Diseases
+,Nabakanta Rabha,Tajesh Rabha,M,29 - 1,ST,2,Other Diseases
+,Lisha Boro, Naidu Boro,F,29 - 1,ST,2.8,Other Diseases
+,Sourab Roy, Liben Roy,M,29 - 1,Gen,2.2,Pneumonia
+,Laxmi Narzary, Rinu Narzary,F,29 - 1,ST,2.2,Other Diseases
+,Baby,Chamfa Goyary,M,29 - 1,ST,2.8,Other Diseases
+,Dunima Brahma, Sujula Brahma,F,29 - 1,ST,2.5,Other Diseases
+,Baby, Sawnsri Basumatary,M,29 - 1,ST,2.5,Other Diseases
+,Baby,Nilima Roy,M,0 - 28,Gen,2.8,Pneumonia
+,Kunjana borgoyary, Pasury Basumatary,F,0 - 28,ST,2.1,Other Diseases
+,Ransuli Marak,Mithun Sangma,F,29 - 1,ST,1.9,Pneumonia
+,Baby,Kabita Roy,M,0 - 28,Gen,2.2,Other Diseases
+,Kunjana borgoyary,mamuni borgoyary,F,0 - 28,ST,2.1,Other Diseases
+,Baby,masum bibi,M,29 - 1,ST,1.9,Other Diseases
+,Ransuli Marak,sajan marak,F,29 - 1,ST,2.1,Other Diseases
+,Baby,siba bibi,M,0 - 28,Gen,1.9,Other Diseases
+,Sonia Basumatary,sanjana basumatary,F,29 - 1,ST,2.2,Pneumonia
+,Mananjoy Basumatary,robin basumatary,M,29 - 1,ST,2.3,Other Diseases
+,Jagingsat Narzary,ranjan narzary,M,29 - 1,ST,2.5,Other Diseases
+,Baby,hasima bibi,F,0 - 28,Gen,1.9,Pneumonia
+,Baby,karima katun,F,0 - 28,ST,2.2,Other Diseases
+,Baby,rabiya bibi,M,0 - 28,Gen,2.2,Other Diseases
+,Baby,priya rai,M,1 - 5,ST,2.2,Other Diseases
+,Baby,Hasina Bibi,M,0 - 28,Gen,2.8,Other Diseases
+,Abdul Rahman,C/O Hamed Ali,M,29 - 1,Gen,2.5,Other Diseases
+,Dipika Basumatary,C/O Achani Basumatary,F,29 - 1,ST,2.5,Other Diseases
+,Nandini Brahma,C/O Ganesh Brahma,F,29 - 1,ST,2.8,Other Diseases
+,Baby,Fulu Shil,F,0 - 28,SC,3,Other Diseases
+,Baby,Mridula Gossai,M,0 - 28,OBC,2.5,Other Diseases
+,Baby,Usha Rani,M,0 - 28,SC,2.5,Pneumonia
+,Baby,Adori Bibi,F,29 - 1,Gen,2.5,Other Diseases
+,Riya Borgoyari,Rijuli Geremsa,F,29 - 1,ST,3.5,Other Diseases
+,Manisha Mushshary,Priya Mushshary,F,29 - 1,ST,2.5,Other Diseases
+,Baby,Bilaishi Brahma,F,0 - 28,ST,2.5,Other Diseases
+,Gobinda Murmu,Rani Murmu,M,29 - 1,OBC,2.5,Other Diseases
+,Baby,Junita Roy,M,0 - 28,SC,2.5,Other Diseases
+,Mayabati Brahma,Rupa Brahma,F,29 - 1,ST,3,Other Diseases
+,Toraina Basumatary,Dhanshri Basumatary,F,29 - 1,ST,2.5,Other Diseases
+,Baby,Ratna Das,F,0 - 28,SC,2.5,Other Diseases
+,Dibiya Magar,Nirmla Magar,F,29 - 1,OBC,2.5,Diarrhoeal Disease
+,Rehnus Begum,Farida Begum,F,1 - 5,Gen,3.2,Diarrhoeal Disease
+,Baby,Kaysali Brahma,M,0 - 28,ST,2.5,Fever
+,Nartira Basumatary,Mamoni Basumatary,F,29 - 1,ST,3,Fever
+,Piruja Brahma,Jharna Brahma,F,29 - 1,ST,2,Other Diseases
+,Nwjwr Basumatary,Trinola Basumatary,F,29 - 1,ST,2.8,Other Diseases
+,PovenDeb Brahma,Urmila Brahma,M,0 - 28,ST,2.5,Pneumonia
+,Gitanjali Narzary,Chitala Brahma,F,29 - 1,ST,2,Other Diseases
+,Anamika Brahma,Bijuli Brahma,F,29 - 1,ST,3,Other Diseases
+,Nilupal ray,Manoroma Ray,M,29 - 1,SC,3,Pneumonia
+,Baby,Rita Ray,M,0 - 28,Gen,2.6,Other Diseases
+,Ganesh Ray,Manju Ray,M,29 - 1,SC,2.5,Other Diseases
+,Baby,Rabita Barman,F,0 - 28,SC,3,Other Diseases
+,Baby,Sabita Basumatary,F,29 - 1,ST,3,Pneumonia
+,Helena Basumatary,Bowhati Basumatary,F,29 - 1,ST,2,Pneumonia
+,Giyan Brahma,Kanika Brahma,M,29 - 1,ST,2.8,Other Diseases
+,Ranjita Brahma,Dipali Nath,F,29 - 1,ST,2.5,Other Diseases
+,Baby,Alima Begum,F,0 - 28,Gen,2,Fever
+,Sabidur Sk,Sofia Bibi,F,1 - 5,Gen,3,Pneumonia
+,Rangina Basumatary,Bandana Basumatary,F,29 - 1,Gen,3,Pneumonia
+,Ganesh Ray,Manju Ray,M,29 - 1,SC,2.6,Other Diseases
+,Nilupal ray,Manoroma Ray,M,29 - 1,SC,2.5,Other Diseases
+,Tanorosh Basumatary,Bwisagi Basumatary,M,29 - 1,ST,3,Pneumonia
+,Baby,Moiful Bibi,F,0 - 28,Gen,2.7,Other Diseases
+,Baby,Anuma Bibi,M,0 - 28,Gen,2.2,Fever
+,Baby,Taslima begum,F,0 - 28,Gen,3.5,Other Diseases
+,Baby,Anjuma Bibi,M,0 - 28,Gen,2.5,Other Diseases
+,Baby,Nirmala Ray,F,29 - 1,SC,2.5,Other Diseases
+,PovenDeb Brahma,Urmila Brahma,M,0 - 28,ST,1.8,Fever
+,Baby,Rita Ray,M,0 - 28,Gen,2.3,Other Diseases
+,Nwjwr Basumatary,Trinola Basumatary,F,29 - 1,ST,3,Pneumonia
+,Sanajuli Narzary,Maidang Narazary,F,29 - 1,ST,3,Other Diseases
+,Anamika Brahma,Bijuli Brahma,F,29 - 1,ST,3,Other Diseases
+,Gitanjali Narzary,Chitala Brahma,F,29 - 1,ST,3,Other Diseases
+,Baby,Rabita Barman,F,0 - 28,SC,1.4,Pneumonia
+,Baby,Manjuma Bibi,F,0 - 28,Gen,2.4,Pneumonia
+,Baby,Mamota Narzary,F,29 - 1,ST,3.1,Other Diseases
+,Baby,Sabura Bibi,F,29 - 1,Gen,2.5,Other Diseases
+,Piruja Brahma,Jharna Brahma,F,29 - 1,ST,2.5,Diarrhoeal Disease
+,Jwngtima Brahma,Bijuli Brahma,F,29 - 1,ST,2.5,Other Diseases
